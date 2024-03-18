@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Page</title>
+    <style>
+        body {
+         
+            font-family: 'Frank Ruhl Libre', Arial, sans-serif;;
+            background-color: #000000; /* צבע רקע שחור */
+            color: #ffffff; /* צבע כיתוב לבן */
+        }
+        .custom-image {
+          
+          max-width: 170%; /* קבע רוחב מרבי של התמונה לפי רוחב העמוד */
+    height: auto; /* שמור על יחסי גובה רקע */
+    padding-left: 20px; /* שוליים משמאל ברוחב של 20 פיקסלים */
+    padding-right: 20px; /* שוליים מימין ברוחב של 20 פיקסלים */
+    padding-top: 10px; /* שוליים מלמעלה בגובה של 10 פיקסלים */
+    padding-bottom: 10px; /* שוליים מלמטה בגובה של 10 פיקסלים */
+    
+}
+
+    </style>
+</head>
+<body>
+    <div *ngIf="recipe" class="container">
+        <div class="row">
+            <div class="col-md-6">
+              <br>
+              <br>
+                <h1>{{ recipe.recipeName }}</h1>
+                <div>
+                    <p>קטגוריה: {{ category.name }}<i class="material-icons">{{ category.routingIcon }}</i></p>
+                    
+                    <!-- Add icon based on category if needed -->
+                </div>
+                <div>
+                    <p>דרגת קושי: {{""|difficultyLevel:recipe?.difficultyLevel}}</p>
+                    <h4>זמן הכנה: {{ recipe.preparationTime| preparationTime }}</h4>
+                </div>
+                <div>
+                    <h3>מרכיבים:</h3>
+                    <ul>
+                        <li *ngFor="let ingredient of recipe.ingredients">{{ ingredient }}</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>אופן ההכנה:</h3>
+                    <ol>
+                        <li *ngFor="let step of recipe.preparationSteps">{{ step }}</li>
+                    </ol>
+                </div>
+                <div *ngIf="isOwner">
+                     <button (click)="deleteRecipe()" class="material-icons">delete</button>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <img src="{{recipe?.imageRouting}}" alt="Recipe Image" class="img-fluid custom-image">
+            </div>
+        </div>
+    </div>
+</body>
+</html>

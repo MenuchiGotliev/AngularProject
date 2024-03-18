@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5C7431-4BF4-4339-9FFE-C10080B3F60F}|projestSwagger\\projestSwagger.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestswagger\\projestswagger\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5C7431-4BF4-4339-9FFE-C10080B3F60F}|projestSwagger\\projestSwagger.csproj|solutionrelative:projestswagger\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5C7431-4BF4-4339-9FFE-C10080B3F60F}|projestSwagger\\projestSwagger.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestswagger\\projestswagger\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5C7431-4BF4-4339-9FFE-C10080B3F60F}|projestSwagger\\projestSwagger.csproj|solutionrelative:projestswagger\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5C7431-4BF4-4339-9FFE-C10080B3F60F}|projestSwagger\\projestSwagger.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestswagger\\projestswagger\\entities\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5C7431-4BF4-4339-9FFE-C10080B3F60F}|projestSwagger\\projestSwagger.csproj|solutionrelative:projestswagger\\entities\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5C7431-4BF4-4339-9FFE-C10080B3F60F}|projestSwagger\\projestSwagger.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestswagger\\projestswagger\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5C7431-4BF4-4339-9FFE-C10080B3F60F}|projestSwagger\\projestSwagger.csproj|solutionrelative:projestswagger\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5C7431-4BF4-4339-9FFE-C10080B3F60F}|projestSwagger\\projestSwagger.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestswagger\\projestswagger\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5C7431-4BF4-4339-9FFE-C10080B3F60F}|projestSwagger\\projestSwagger.csproj|solutionrelative:projestswagger\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5C7431-4BF4-4339-9FFE-C10080B3F60F}|projestSwagger\\projestSwagger.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestswagger\\projestswagger\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5C7431-4BF4-4339-9FFE-C10080B3F60F}|projestSwagger\\projestSwagger.csproj|solutionrelative:projestswagger\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5C7431-4BF4-4339-9FFE-C10080B3F60F}|projestSwagger\\projestSwagger.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestswagger\\projestswagger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5C7431-4BF4-4339-9FFE-C10080B3F60F}|projestSwagger\\projestSwagger.csproj|solutionrelative:projestswagger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5C7431-4BF4-4339-9FFE-C10080B3F60F}|projestSwagger\\projestSwagger.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestswagger\\projestswagger\\projestswagger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA5C7431-4BF4-4339-9FFE-C10080B3F60F}|projestSwagger\\projestSwagger.csproj|solutionrelative:projestswagger\\projestswagger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\projestSwagger\\Program.cs",
+              "RelativeDocumentMoniker": "projestSwagger\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\projestSwagger\\Program.cs",
+              "RelativeToolTip": "projestSwagger\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:37:16.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\projestSwagger\\Entities\\Recipe.cs",
+              "RelativeDocumentMoniker": "projestSwagger\\Entities\\Recipe.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\projestSwagger\\Entities\\Recipe.cs",
+              "RelativeToolTip": "projestSwagger\\Entities\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:29:13.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\projestSwagger\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "projestSwagger\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\projestSwagger\\Entities\\Category.cs",
+              "RelativeToolTip": "projestSwagger\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:28:41.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\projestSwagger\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "projestSwagger\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\projestSwagger\\Entities\\User.cs",
+              "RelativeToolTip": "projestSwagger\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:28:13.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "projestSwagger.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\projestSwagger\\projestSwagger.csproj",
+              "RelativeDocumentMoniker": "projestSwagger\\projestSwagger.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\projestSwagger\\projestSwagger.csproj",
+              "RelativeToolTip": "projestSwagger\\projestSwagger.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-07T01:27:13.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\projestSwagger\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "projestSwagger\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\projestSwagger\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "projestSwagger\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:15:00.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\projestSwagger\\Controllers\\RecipeController.cs",
+              "RelativeDocumentMoniker": "projestSwagger\\Controllers\\RecipeController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\projestSwagger\\Controllers\\RecipeController.cs",
+              "RelativeToolTip": "projestSwagger\\Controllers\\RecipeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwDkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:13:11.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\projestSwagger\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "projestSwagger\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05DE\u05E7\u05E6\u05D5\u05E2\u05D5\u05EA\\\u05D0\u05E0\u05D2\u05D5\u05DC\u05E8\\projestSwagger\\projestSwagger\\Controllers\\UserController.cs",
+              "RelativeToolTip": "projestSwagger\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:12:47.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
